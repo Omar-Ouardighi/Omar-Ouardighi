@@ -78,8 +78,3 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 My Stats :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-Ouardighi&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ouardighi&theme=blue-green)
