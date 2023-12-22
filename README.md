@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - :seedling: Exploring Cloud Computing (AWS) and Data Engineering content.
 
-- 💬 Ask me about **ML, LLMs, BI Methodology, Data Viz, Data Engineering**
+- 💬 Ask me about **ML, LLMs, Data Viz, Data Engineering**
 
 - 📫 How to reach me **omar.ouardighi.001@student.uni.lu**
 
