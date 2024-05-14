@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 👨🏼‍💻 About Me :
 
-- :gear: LLMs Engineer intern @Paul Wurth | Data Science Student @University of Luxembourg.
+- :gear: Data Engineer intern @Amazon | Data Science Student @University of Luxembourg.
 
 - :seedling: Exploring Cloud Computing (AWS) and Data Engineering content.
 
